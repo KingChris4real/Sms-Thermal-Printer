@@ -41,9 +41,6 @@ Der Thermal Printer benötigt eine relativ hohe Spannung und benötigt dadurch e
 IoT SIM Karten Anbieter verlangen meist eine hohe Sms Gebühr. Das Testing wird dadurch sehr teuer. 
 
 
-
-Projektaufbau:
-
 Librarys: 
 
 Adafruit Thermal Printer Library (25.06.19)
